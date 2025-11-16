@@ -25,10 +25,10 @@ Cada produto possui:
 
 Tecnologias utilizadas
 
-- PHP 8+ — Backend e lógica principal  
-- MySQL — Armazenamento dos dados  
-- HTML5 & CSS3 — Estrutura e estilização da interface  
-- JavaScript — Confirmação de exclusão  
+- PHP 8+ - Backend e lógica principal  
+- MySQL - Armazenamento dos dados  
+- HTML5 & CSS3 - Estrutura e estilização da interface  
+- JavaScript - Confirmação de exclusão  
 
 ---
 
@@ -38,7 +38,7 @@ Como executar o projeto
 2. Copie os arquivos deste repositório para a pasta:
 C:\xampp\htdocs\sistema-de-cadastro-de-produtos
 3. No phpMyAdmin, execute o script SQL abaixo para criar o banco e a tabela.
-4. Abra o arquivo `db.php` e ajuste usuário/senha do MySQL se necessário.
+4. Abra o arquivo db.php e ajuste usuário/senha do MySQL se necessário.
 5. Inicie o Apache + MySQL e acesse no navegador:
 http://localhost/sistema-de-cadastro-de-produtos/index.php
 
