@@ -61,17 +61,8 @@ CREATE TABLE produtos (
 
 ---
 
-Observação sobre a equipe / desenvolvimento
-
-De acordo com o registro enviado via Google Forms, este projeto consta oficialmente como desenvolvido em dupla.
-No entanto, todo o desenvolvimento, implementação, estruturação, testes, organização e entrega do projeto foram realizados integralmente por mim, devido à ausência de participação do outro integrante Lorenzo Cavalcante Carvalho Mendes Pereira, que não contribuiu com commits ou desenvolvimento no repositório.
-
-Esta observação tem o objetivo de fornecer transparência ao processo de avaliação, conforme os critérios estabelecidos pela disciplina.
-
----
-
 Autor
 
 Thiago Henrique Porfirio de Oliveira (43672973)
-
+Lorenzo Cavalcante Carvalho Mendes Pereira (44988982)
 
